@@ -1,0 +1,40 @@
+{
+  "ViewConfig": {
+    "1001": {
+      "id": 1001,
+      "titleName": "uiLogin",
+      "prefabUrl": "./prefab/uiLogin",
+      "uiType": 1,
+      "EXTRA": "",
+      "NAME": "登陆"
+    },
+    "1002": {
+      "id": 1002,
+      "titleName": "uiLobby",
+      "prefabUrl": "./prefab/uiLobby",
+      "uiType": 1,
+      "EXTRA": "",
+      "NAME": "大厅"
+    }
+  },
+  "ModelConfig": {
+    "2001": {
+      "ID": 2001,
+      "Name": "model_001",
+      "AssetName": "./model/model_001",
+      "HP": 100,
+      "Attack": 50,
+      "Defence": 60,
+      "PowerArray": 1
+    },
+    "2002": {
+      "ID": 2002,
+      "Name": "model_002",
+      "AssetName": "./model/model_002",
+      "HP": 200,
+      "Attack": 100,
+      "Defence": 70,
+      "PowerArray": 2
+    }
+  }
+}

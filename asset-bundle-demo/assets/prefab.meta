@@ -1,0 +1,20 @@
+{
+  "ver": "1.1.2",
+  "uuid": "442c32af-d8ae-4bd0-9b32-b5c2d2b433b1",
+  "isBundle": true,
+  "bundleName": "",
+  "priority": "7",
+  "compressionType": {
+    "wechatgame": "merge_all_json"
+  },
+  "optimizeHotUpdate": {
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "wechatgame": false
+  },
+  "subMetas": {}
+}
